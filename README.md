@@ -32,10 +32,6 @@ class GFG {
 
 
 
-
-
-
-
 // Java Program to Check if Given Integer is Odd or Even
 // Using Brute Forcew Approach
 
@@ -163,7 +159,6 @@ public class GeeksforGeeks {
 		isLeapYear(2002);
 	}
 }
-
 
 
 // Java program to find factorial
