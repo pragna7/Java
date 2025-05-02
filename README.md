@@ -30,8 +30,6 @@ class GFG {
 }
 
 
-
-
 // Java Program to Check if Given Integer is Odd or Even
 // Using Brute Forcew Approach
 
