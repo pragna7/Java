@@ -64,8 +64,6 @@ class GFG {
 }
 
 
-
-
 import java.util.Scanner;
 
 public class PowerOfNumber {
