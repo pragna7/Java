@@ -262,8 +262,6 @@ class GFG {
 }
 
 
-
-
 // Java Program to find even sum of
 // fibonacci Series Till number N
 import java.io.*;
